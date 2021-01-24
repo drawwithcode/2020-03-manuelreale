@@ -1,0 +1,18 @@
+{
+  "people" : [
+
+    {"name" : "Giorgio Gianni", "score" : 121, "face"  : "1"},
+    {"name" : "Maria Snocchi", "score" : 104, "face"  : "2"},
+    {"name" : "Marco Nuca", "score" : 92, "face"  : "3"},
+    {"name" : "Eleonora Illis", "score" : 89, "face"  : "4"},
+    {"name" : "Andrea Scorri", "score" : 75, "face"  : "5"},
+    {"name" : "Alberto Giacobbo", "score" : 68, "face"  : "6"},
+    {"name" : "Eugenio Trafelotti", "score" : 67, "face"  : "7"},
+    {"name" : "Giorgio Nenni", "score" : 62, "face"  : "8"},
+    {"name" : "Luca Marcantonio", "score" : 53, "face"  : "9"},
+    {"name" : "Federico Gratta", "score" : 51, "face"  : "10"},
+    {"name" : "Mario Bianchi", "score" : 48, "face"  : "11"},
+    {"name" : "Luisa Toti", "score" : 47, "face"  : "12"}
+
+  ]
+}
